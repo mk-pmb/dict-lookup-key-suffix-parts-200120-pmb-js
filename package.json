@@ -1,5 +1,5 @@
 { "name": "dict-lookup-key-suffix-parts-200120-pmb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Can be used to look up the most specific value for a multi-part filename extension or domain name.",
   "keywords": [],
 
