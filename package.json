@@ -5,6 +5,7 @@
 
   "author": "M.K. (https://github.com/mk-pmb)",
   "homepage": "https://github.com/mk-pmb/dict-lookup-key-suffix-parts-200120-pmb-js/#readme",
+  "npmInstallUrl": "https://github.com/mk-pmb/dict-lookup-key-suffix-parts-200120-pmb-js.git",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mk-pmb/dict-lookup-key-suffix-parts-200120-pmb-js.git"
