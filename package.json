@@ -1,0 +1,31 @@
+{ "name": "dict-lookup-key-suffix-parts-200120-pmb",
+  "version": "1.0.0",
+  "description": "Can be used to look up the most specific value for a multi-part filename extension or domain name.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/dict-lookup-key-suffix-parts-200120-pmb-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/dict-lookup-key-suffix-parts-200120-pmb-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/dict-lookup-key-suffix-parts-200120-pmb-js/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "main": "ksp.js",
+  "scripts": { "test": "nodemjs test/all.mjs" },
+  "directories": { "test": "test" },
+
+  "devDependencies": {
+    "equal-pmb": "^0.1.20",
+    "nodemjs": "^0.1.8",
+    "usnam-pmb": "^0.2.4"
+  },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
